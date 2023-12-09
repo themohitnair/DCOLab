@@ -1,0 +1,7 @@
+module program3 (
+	input A, B, C, D,
+	output E
+);
+assign E = ((A&&~(B)) + (~(A)&&B))&&(C||~D); //(AB'+A'B)(C+D')
+endmodule
+

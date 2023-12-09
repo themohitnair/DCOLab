@@ -1,0 +1,6 @@
+ module program2 (
+	input A, B, C, D,
+	output E
+);
+assign E = (A && (C && D || B)) || (B && (~C)); //A(CD+B)+BC'
+endmodule

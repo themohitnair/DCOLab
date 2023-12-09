@@ -1,0 +1,7 @@
+module program6 (
+	input A, B, C, D,
+	output E
+);
+assign E = ((C&&~(B))||(A&&B&&C)||(~(C)&&B))&&(A||~(D)); //(CB'+ABC+C'B)(A+D')
+endmodule
+

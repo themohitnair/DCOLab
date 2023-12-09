@@ -1,0 +1,6 @@
+ module program4 (
+	input A, B, C, D, E,
+	output F
+);
+assign F = (A||B)&&(C||D)&&E; //(A+B)(C+D)E
+endmodule
