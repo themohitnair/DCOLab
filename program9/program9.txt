@@ -1,0 +1,21 @@
+module regs();
+reg a;
+reg b;
+reg c;
+
+always @(c) begin
+$display("a=%b. b=%b, c=%b",a,b,c);
+end
+
+initial begin
+#2;
+a=0;
+b=1;
+c=a^b;
+#10;
+c=a|b;
+#10;
+c=c|1;
+#10;
+end
+endmodule

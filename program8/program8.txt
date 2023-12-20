@@ -1,0 +1,19 @@
+module product_sum();
+integer a,b;
+integer sum;
+
+real x,y;
+real product;
+
+initial begin
+a=10;
+b=20;
+sum=a+b;
+$display("Sum of %d and %d is %d.",a,b,sum);
+x=3.141;
+y=4.000;
+product=x*y;
+$display("Product of %f and %f is %f.",x,y,product);
+end
+endmodule
+

@@ -1,0 +1,24 @@
+module add();
+integer a,b,sum;
+
+always @(sum) begin
+$display("a = %d, b = %d, sum = %d\n", a,b,sum);
+end
+
+always @(a,b) begin
+sum = a+b;
+end
+
+initial begin
+#2;
+a=10;
+b=20;
+#10;
+a=30;
+b=40;
+#10;
+a=50;
+b=60;
+#10;
+end
+endmodule
