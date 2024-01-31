@@ -1,0 +1,333 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/themohitnair
+vbitwise_operators
+!s110 1706716334
+!i10b 1
+!s100 MnSVl_C@ZOFA0=1zYm]D60
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcVGA>a`z8N>OH?dZd^JZY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/themohitnair/DCOLAB
+w1706716319
+8/home/themohitnair/DCOLAB/bitwise_op.v
+F/home/themohitnair/DCOLAB/bitwise_op.v
+!i122 51
+Z3 L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1706716334.000000
+!s107 /home/themohitnair/DCOLAB/bitwise_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/bitwise_op.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfour_bit_adder_s
+Z7 !s110 1706714738
+!i10b 1
+!s100 IUJiPBiH6G=o8707`^zOm0
+R0
+I^`gJa>9CcAl;ReDd63Th:0
+R1
+R2
+w1706704508
+8/home/themohitnair/DCOLAB/four_bit_adder_s.v
+F/home/themohitnair/DCOLAB/four_bit_adder_s.v
+!i122 40
+L0 1 37
+R4
+r1
+!s85 0
+31
+Z8 !s108 1706714738.000000
+!s107 /home/themohitnair/DCOLAB/four_bit_adder_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/four_bit_adder_s.v|
+!i113 1
+R5
+R6
+vfour_bit_adder_testbench
+R7
+!i10b 1
+!s100 iTCD4=<<5OlJl8A9Kz>d[3
+R0
+IWodTjSg<A43Wi1VDoAPoB2
+R1
+R2
+w1706710646
+8/home/themohitnair/DCOLAB/fba_tb.v
+F/home/themohitnair/DCOLAB/fba_tb.v
+!i122 39
+L0 1 29
+R4
+r1
+!s85 0
+31
+Z9 !s108 1706714737.000000
+!s107 /home/themohitnair/DCOLAB/fba_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/fba_tb.v|
+!i113 1
+R5
+R6
+vfull_adder_behavioral
+R7
+!i10b 1
+!s100 Y@VeWj<MJA3XUJlUM@Zfd0
+R0
+IgbziHd=<^;l`TYPBgUK823
+R1
+R2
+w1706711310
+8/home/themohitnair/DCOLAB/full_adder_behavioral.v
+F/home/themohitnair/DCOLAB/full_adder_behavioral.v
+!i122 44
+Z10 L0 1 10
+R4
+r1
+!s85 0
+31
+R8
+!s107 /home/themohitnair/DCOLAB/full_adder_behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/full_adder_behavioral.v|
+!i113 1
+R5
+R6
+vfull_adder_behavioral_testbench
+R7
+!i10b 1
+!s100 Ogh@nXXhnPXEA>^F@Cl]V2
+R0
+I=DK3A3ALK2E`?ZEJAU9;Z2
+R1
+R2
+w1706711094
+8/home/themohitnair/DCOLAB/fab_tb.v
+F/home/themohitnair/DCOLAB/fab_tb.v
+!i122 43
+Z11 L0 1 27
+R4
+r1
+!s85 0
+31
+R8
+!s107 /home/themohitnair/DCOLAB/fab_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/fab_tb.v|
+!i113 1
+R5
+R6
+vfull_adder_s
+Z12 !s110 1706714737
+!i10b 1
+!s100 SK2_ASD]iJfgSXPQ`[QOk1
+R0
+IMI`ITBAI8?gIF3<Y]mA;m3
+R1
+R2
+w1706704130
+8/home/themohitnair/DCOLAB/full_adder_s.v
+F/home/themohitnair/DCOLAB/full_adder_s.v
+!i122 36
+Z13 L0 1 19
+R4
+r1
+!s85 0
+31
+R9
+!s107 /home/themohitnair/DCOLAB/full_adder_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/full_adder_s.v|
+!i113 1
+R5
+R6
+vfull_adder_testbench
+R12
+!i10b 1
+!s100 >om5TJ525f09Z9?;Enl]F3
+R0
+I5G_Q0CM6JUcI]ac@?52JC2
+R1
+R2
+w1706704002
+8/home/themohitnair/DCOLAB/fa_tb.v
+F/home/themohitnair/DCOLAB/fa_tb.v
+!i122 35
+R11
+R4
+r1
+!s85 0
+31
+R9
+!s107 /home/themohitnair/DCOLAB/fa_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/fa_tb.v|
+!i113 1
+R5
+R6
+vhalf_adder_behavioral
+R7
+!i10b 1
+!s100 =<c_@>]1XY5df6^E7aEgX0
+R0
+I@SN9nf2m5h049P0c8k2b93
+R1
+R2
+w1706708659
+8/home/themohitnair/DCOLAB/half_adder_behavioral.v
+F/home/themohitnair/DCOLAB/half_adder_behavioral.v
+!i122 42
+R10
+R4
+r1
+!s85 0
+31
+R8
+!s107 /home/themohitnair/DCOLAB/half_adder_behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/half_adder_behavioral.v|
+!i113 1
+R5
+R6
+vhalf_adder_behavioral_testbench
+R7
+!i10b 1
+!s100 U>=8eDZc;_0RXTaD^Le=T3
+R0
+IFH?9e6=N9P0c=`hm7H84V0
+R1
+R2
+w1706709455
+8/home/themohitnair/DCOLAB/hab_tb.v
+F/home/themohitnair/DCOLAB/hab_tb.v
+!i122 41
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 /home/themohitnair/DCOLAB/hab_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/hab_tb.v|
+!i113 1
+R5
+R6
+vhalf_adder_s
+R12
+!i10b 1
+!s100 2^o;KT<iG^AOSMU5MS9Mj3
+R0
+I7ZYAZHgLWWW^LC?2EbcPN0
+R1
+R2
+w1706703833
+8/home/themohitnair/DCOLAB/half_adder_s.v
+F/home/themohitnair/DCOLAB/half_adder_s.v
+!i122 38
+L0 1 9
+R4
+r1
+!s85 0
+31
+R9
+!s107 /home/themohitnair/DCOLAB/half_adder_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/half_adder_s.v|
+!i113 1
+R5
+R6
+vhalf_adder_s_testbench
+R12
+!i10b 1
+!s100 6c9M?l<@8G;hMGREL00Ij0
+R0
+Iifk74MdhSQ[H<:nLnSjA70
+R1
+R2
+w1706702787
+8/home/themohitnair/DCOLAB/ha_tb.v
+F/home/themohitnair/DCOLAB/ha_tb.v
+!i122 37
+R13
+R4
+r1
+!s85 0
+31
+R9
+!s107 /home/themohitnair/DCOLAB/ha_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/ha_tb.v|
+!i113 1
+R5
+R6
+vliteral_values
+R7
+!i10b 1
+!s100 AEZXY5J5]lbnb[^LRfn^80
+R0
+IE0C76:l5kPfooIo24TR3m2
+R1
+R2
+w1706712505
+8/home/themohitnair/DCOLAB/literal_val.v
+F/home/themohitnair/DCOLAB/literal_val.v
+!i122 45
+R13
+R4
+r1
+!s85 0
+31
+R8
+!s107 /home/themohitnair/DCOLAB/literal_val.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/literal_val.v|
+!i113 1
+R5
+R6
+vreduction_operators
+!s110 1706714769
+!i10b 1
+!s100 ;NPgB>mBLY=KLhn4[QWeC3
+R0
+I<_@BznM9D0;o?Sh39oVJV1
+R1
+R2
+w1706714760
+8/home/themohitnair/DCOLAB/reduction_op.v
+F/home/themohitnair/DCOLAB/reduction_op.v
+!i122 48
+L0 1 15
+R4
+r1
+!s85 0
+31
+!s108 1706714769.000000
+!s107 /home/themohitnair/DCOLAB/reduction_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/reduction_op.v|
+!i113 1
+R5
+R6
+vshift_op
+!s110 1706716640
+!i10b 1
+!s100 E=@DOznn`@ZXnO9Ho2lVh1
+R0
+In6C=EEb:mDA8OB1Hjl2gz3
+R1
+R2
+w1706716629
+8/home/themohitnair/DCOLAB/shift_op.v
+F/home/themohitnair/DCOLAB/shift_op.v
+!i122 53
+L0 1 12
+R4
+r1
+!s85 0
+31
+!s108 1706716640.000000
+!s107 /home/themohitnair/DCOLAB/shift_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/themohitnair/DCOLAB/shift_op.v|
+!i113 1
+R5
+R6
