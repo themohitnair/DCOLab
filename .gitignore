@@ -1,4 +1,4 @@
 /work
-*.mpf
-*.wlf
-*.mti
+DCO.mpf
+vsim.wlf
+DCO.cr.mti
